@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee6856f4-d139-41f5-894b-e02ff5341135" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/regression_algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/regression_algo.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee6856f4-d139-41f5-894b-e02ff5341135" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +48,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="626" />
+          <entry key="py" value="655" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="626" />
+          <entry key="Python" value="655" />
         </counts>
       </usages-collector>
     </session>
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regression_algo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -115,6 +113,7 @@
         <option value="$PROJECT_DIR$/actual_script.py" />
         <option value="$PROJECT_DIR$/kmeans_algo.py" />
         <option value="$PROJECT_DIR$/regression_algo.py" />
+        <option value="$PROJECT_DIR$/Extra.py" />
       </list>
     </option>
   </component>
@@ -201,12 +200,12 @@
     <frame x="20" y="43" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,10 +243,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Extra.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/regression_algo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
